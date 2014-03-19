@@ -2,7 +2,7 @@
 Contributors: tawkto
 Tags: livechat, chat widget, plugin, enhancement, widget
 Requires at least: 2.7
-Tested up to: 3.4.2
+Tested up to: 3.8.1
 Stable tag: 0.1.0
 
 Free live chat widget for your site
