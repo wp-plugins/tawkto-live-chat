@@ -2,8 +2,8 @@
 Contributors: tawkto
 Tags: livechat, chat widget, plugin, enhancement, widget
 Requires at least: 2.7
-Tested up to: 3.8.1
-Stable tag: 0.1.0
+Tested up to: 4.1
+Stable tag: 0.1.2
 
 Free live chat widget for your site
 
@@ -28,6 +28,12 @@ Note: You will need a free tawk.to account to generate the embed code, <a href="
 
 = 0.1.0 =
 * Add the tawk.to live chat widget to your site!
+
+= 0.1.1 =
+* No more manual embed code copying, choose desired widget and it will be inserted in your site
+
+= 0.1.2 =
+* Supported version bump
 
 == Frequently Asked Questions ==
 
